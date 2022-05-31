@@ -68,3 +68,11 @@ SAST (Static Application Security Testing) is the automated analysis of written 
 
 SpectralOps
 Veracode
+
+
+
+|   | Qodana  | GHAS/CodeQL  |  SonarQube |   |
+|---|---|---|---|---|
+|Code analysis languages   |  Java, python, js |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
